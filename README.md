@@ -1,6 +1,6 @@
 # Quantic Tech Internship 🧠💻
 
-This repository contains the work I completed during my internship at **Quantic Tech**, focused on advanced topics in **Computer Vision**, including face recognition, object tracking, and safety gear detection using deep learning.
+This repository contains the work I completed during my internship at **Quantic Tech Analysis**, focused on advanced topics in **Computer Vision**, including face recognition, person detection, and hardhat detection using YOLO models.
 
 ---------------------------------
 
